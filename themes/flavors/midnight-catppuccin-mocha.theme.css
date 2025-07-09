@@ -12,10 +12,11 @@
 
 /* import theme modules */
 @import url('https://refact0r.github.io/midnight-discord/build/midnight.css');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
 
 body {
     /* font, change to '' for default discord font */
-    --font: 'figtree'; /* change to '' for default discord font */
+    --font: 'JetBrains Mono'; /* change to '' for default discord font */
     --code-font: ''; /* change to '' for default discord font */
     font-weight: 400 /* normal text font weight. DOES NOT AFFECT BOLD TEXT */;
 
