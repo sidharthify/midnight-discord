@@ -12,8 +12,7 @@
 
 /* import theme modules */
 @import url('https://refact0r.github.io/midnight-discord/build/midnight.css');
-@import url('https://fonts.googleapis.com/css2?family=Intero&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 body {
     /* font, change to '' for default discord font */
     --font: 'Inter'; /* change to '' for default discord font */
